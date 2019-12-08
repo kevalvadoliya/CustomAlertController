@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  CustomAlertController
+//  CustomAlertViewController
 //
-//  Created by Keval Vadoliya on 25/11/19.
+//  Created by Keval Vadoliya on 08/12/19.
 //  Copyright © 2019 Keval Vadoliya. All rights reserved.
 //
 

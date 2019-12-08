@@ -1,14 +1,14 @@
 //
-//  CustomAlertControllerUITests.swift
-//  CustomAlertControllerUITests
+//  CustomAlertViewControllerUITests.swift
+//  CustomAlertViewControllerUITests
 //
-//  Created by Keval Vadoliya on 25/11/19.
+//  Created by Keval Vadoliya on 08/12/19.
 //  Copyright © 2019 Keval Vadoliya. All rights reserved.
 //
 
 import XCTest
 
-class CustomAlertControllerUITests: XCTestCase {
+class CustomAlertViewControllerUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
